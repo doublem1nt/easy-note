@@ -1,5 +1,5 @@
 # Easy-Note "Note Taker"
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](url here)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://git.heroku.com/build-easy-note.git)
 ![Easy-Note](./public/assets/image/demo.gif?raw=true "Easy-Note")
 
 # About This Project
